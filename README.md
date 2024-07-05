@@ -1,4 +1,8 @@
-## Hi there 👋
+Glexica 
+-https://glexica.com
+-Virtual Try On Technology for Clothes.
+-AI-powered virtual fitting room technology for fashion e-commerce. Enable your customers to see how clothes look on them, instantly.
+
 
 <!--
 **glexica/glexica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
